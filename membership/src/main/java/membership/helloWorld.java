@@ -6,6 +6,7 @@ public class helloWorld {
 		// TODO Auto-generated method stub
 		System.out.println("Hello World");
 		System.out.println("Time is 5:35 PM");
+		System.out.println("hot ");
 
 	}
 
